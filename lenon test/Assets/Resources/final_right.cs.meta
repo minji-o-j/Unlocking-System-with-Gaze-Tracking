@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b3a500c9191fede499ff5c190fcdcf07
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ob: {instanceID: 0}
+  - Lemon_b: {fileID: 21300000, guid: 757dad61f3083a44d85232e7860c3cb9, type: 3}
+  - Lemon_a: {fileID: 21300000, guid: cf0ae30be76333740a28513ab293f1f0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
