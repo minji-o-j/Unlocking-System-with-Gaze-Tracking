@@ -9,7 +9,7 @@
 
 ### 개발자
 
-- 김소현(@sohyeon98720), 박현지, 이혜인(@hyeinlee725), 정민지(@minji-o-j)
+- 김소현(@sohyeon98720), 박현지, 이혜인(@hyeinlee725), 정민지(@minji-o-j) 
 <br>
 
 ### 설명
