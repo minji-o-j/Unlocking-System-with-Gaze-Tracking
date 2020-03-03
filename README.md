@@ -12,7 +12,9 @@
 ---
 ### 개발자
 
-- 김소현(`@sohyeon98720`), 박현지, 이혜인(`@hyeinlee725`), 정민지(`@minji-o-j`) 
+- 김소현([@sohyeon98720](https://github.com/sohyeon98720)), 박현지, 이혜인([@hyeinlee725](https://github.com/hyeinlee725)), 정민지([@minji-o-j](https://github.com/minji-o-j)) 
+
+
 --- 
 ### 하드웨어 제작
 #### - 준비물
