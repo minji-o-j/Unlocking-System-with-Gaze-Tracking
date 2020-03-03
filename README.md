@@ -1,10 +1,8 @@
 # Unlocking System with Gaze Tracking
 # 시선 추적을 이용한 잠금 해제 시스템
-
-  -  [개발 기간](#개발-기간)
-  -  [개발자](#개발자)
-
-하드웨어 제작
+[개발 기간](#개발-기간)  
+[개발자](#개발자)  
+[하드웨어 제작](#하드웨어-제작)  
 
 
 ---
@@ -17,7 +15,7 @@
 - 김소현(`@sohyeon98720`), 박현지, 이혜인(`@hyeinlee725`), 정민지(`@minji-o-j`) 
 --- 
 ### 하드웨어 제작
-#### 준비물
+#### - 준비물
 ![image](https://user-images.githubusercontent.com/45448731/75803052-1aec8180-5dc1-11ea-9005-3a1a7a7de31d.png)
 
 
@@ -26,7 +24,7 @@
 - 카메라 주위에 적외선 램프 고정
 <br>
 
-#### 완성품
+#### -완성품
 ![image](https://user-images.githubusercontent.com/45448731/75803296-92baac00-5dc1-11ea-95c0-182f2be12af5.png)
 
 ---
