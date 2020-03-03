@@ -10,9 +10,21 @@
 - 김소현(`@sohyeon98720`), 박현지, 이혜인(`@hyeinlee725`), 정민지(`@minji-o-j`) 
 <br>
 
-### 하드웨어
+### 하드웨어 제작
+#### 준비물
+![image](https://user-images.githubusercontent.com/45448731/75803052-1aec8180-5dc1-11ea-9005-3a1a7a7de31d.png)
 
-- 웹캠을 이용해 적외선 카메라 제작
+
+- 웹캠의 적외선 차단 필름 제거
+- 자외선 차단 필름을 넣음
+- 카메라 주위에 적외선 램프 고정
+<br>
+
+#### 완성품
+![image](https://user-images.githubusercontent.com/45448731/75803296-92baac00-5dc1-11ea-95c0-182f2be12af5.png)
+
+
+
 
 - 카메라를 이용하여 실시간 동공 영상 촬영
 
