@@ -72,3 +72,26 @@
 1. 왼쪽 위, 오른쪽 아래를 볼 때의 동공의 중심 좌표를 찾는다.
 2. 두 점을 기준으로 9개 점의 좌표를 계산한다.
 3. 패턴 입력 화면에서 전체 화면을 9개의 영역으로 나누어 점의 좌표와 연관시킨다.
+
+---
+### 결과
+
+- 메인 화면  
+![image](https://user-images.githubusercontent.com/45448731/76137002-5d40e780-607b-11ea-9bfe-c3b7c7bd50fc.png)
+<br>
+
+- 개발자 보기  
+![image](https://user-images.githubusercontent.com/45448731/76137003-603bd800-607b-11ea-8662-4368fe8b5f24.png)
+<br>
+
+#### 잠금 설정시  
+- 캘리브레이션  
+![image](https://user-images.githubusercontent.com/45448731/76137035-aee97200-607b-11ea-9d4a-828f16d0a0b3.png)
+    - 왼쪽 위, 오른쪽 아래를 일정 프레임씩 보게 함으로써 화면을 보는 눈의 위치를 파악한다.  
+<br>
+
+- 비밀번호 등록하기  
+![image](https://user-images.githubusercontent.com/45448731/76137062-11db0900-607c-11ea-895f-6731286e769d.png)
+![image](https://user-images.githubusercontent.com/45448731/76137081-3fc04d80-607c-11ea-9e83-8625c66f02d8.png)
+![image](https://user-images.githubusercontent.com/45448731/76137039-bb6dca80-607b-11ea-89c1-f4065723c220.png)
+
