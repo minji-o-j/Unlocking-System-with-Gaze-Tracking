@@ -1,11 +1,15 @@
 # Unlocking System with Gaze Tracking
 # 시선 추적을 이용한 잠금 해제 시스템
+
+![image](https://user-images.githubusercontent.com/45448731/76140694-714b1000-60a0-11ea-90ec-56241f2e0cd1.png)
+
 [요약](#요약)  
 [개발 기간](#개발-기간)  
 [개발자](#개발자)  
 [하드웨어 제작](#하드웨어-제작)  
 [사용 프로그램](#사용-프로그램)  
-[사용 기술](#사용-기술)
+[사용 기술](#사용-기술)  
+[결과](#결과)
 
 ---
 ### 요약
@@ -72,3 +76,54 @@
 1. 왼쪽 위, 오른쪽 아래를 볼 때의 동공의 중심 좌표를 찾는다.
 2. 두 점을 기준으로 9개 점의 좌표를 계산한다.
 3. 패턴 입력 화면에서 전체 화면을 9개의 영역으로 나누어 점의 좌표와 연관시킨다.
+
+---
+### 결과
+
+- 동공이 잘 인식되지 않는 상황을 대비하여 몇 초 이후에 넘어가는 것이 아니라 __동공 프레임이 몇 개 들어왔는가__에 따라 다음 화면으로 자동으로 넘어가게끔 구현하였다.
+<br>
+
+- 메인 화면  
+![image](https://user-images.githubusercontent.com/45448731/76137002-5d40e780-607b-11ea-9bfe-c3b7c7bd50fc.png)
+<br>
+
+- 개발자 보기  
+![image](https://user-images.githubusercontent.com/45448731/76137003-603bd800-607b-11ea-8662-4368fe8b5f24.png)
+<br>
+
+#### 잠금 설정시  
+- 캘리브레이션  
+![image](https://user-images.githubusercontent.com/45448731/76137035-aee97200-607b-11ea-9d4a-828f16d0a0b3.png)
+    - 왼쪽 위, 오른쪽 아래를 일정 프레임씩 보게 함으로써 화면을 보는 눈의 위치를 파악한다.  
+<br>
+
+- 비밀번호 등록하기  
+![image](https://user-images.githubusercontent.com/45448731/76137062-11db0900-607c-11ea-895f-6731286e769d.png)  
+![image](https://user-images.githubusercontent.com/45448731/76137081-3fc04d80-607c-11ea-9e83-8625c66f02d8.png)  
+    -`비밀번호 등록하기` 단계에서 비밀번호를 입력하면 **레몬이 노란색으로 표시된다.**
+    - 비밀번호 입력은 9개의 영역중 한 구역에 일정 프레임 이상 있을 경우 선택이 되었다고 
+    - 비밀번호는 3자리에서 5자리까지 설정 가능하다.
+    - 비밀번호가 5자리 인 경우 5자리가 입력되면 자동으로 확인 창으로 넘어가며, 3 또는 4자리인 경우 __가운데 캐릭터를 일정 프레임동안 보면__ 다음 화면으로 넘어간다. 
+<br>
+
+- 입력한 비밀번호 확인하기  
+![image](https://user-images.githubusercontent.com/45448731/76137039-bb6dca80-607b-11ea-89c1-f4065723c220.png)
+<br>
+
+#### 잠금 해제시
+- 캘리브레이션  
+![image](https://user-images.githubusercontent.com/45448731/76137035-aee97200-607b-11ea-9d4a-828f16d0a0b3.png)
+    - 왼쪽 위, 오른쪽 아래를 일정 프레임씩 보게 함으로써 화면을 보는 눈의 위치를 파악한다.
+<br>
+
+- 잠금 해제하기  
+![image](https://user-images.githubusercontent.com/45448731/76139691-0bf22180-6096-11ea-9357-38ced3db434d.png)  
+    - `잠금 해제하기` 단계에서는 _레몬의 색은 바뀌지 않는다._ 대신 비밀번호가 입력되었음을 확인할 수 있도록 __자릿수가 체크__ 된다.  
+    - 비밀번호가 3-4자리인 경우에는 3-4자리만 입력이 되면 바로 `해제 성공`/`해제 실패` 창으로 넘어간다.
+
+  ![image](https://user-images.githubusercontent.com/45448731/76139692-0e547b80-6096-11ea-8fd6-889a8d89f7bf.png)
+<br>
+
+- 잠금 해제 실패시  
+![image](https://user-images.githubusercontent.com/45448731/76139694-10b6d580-6096-11ea-89d6-752da0c356fe.png)
+<br>
