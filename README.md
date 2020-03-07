@@ -5,7 +5,7 @@
 [개발자](#개발자)  
 [하드웨어 제작](#하드웨어-제작)  
 [사용 프로그램](#사용-프로그램)  
-[사용 기술](#사용-기술)
+[사용 기술](#사용-기술)  
 [결과](#결과)
 
 ---
@@ -92,7 +92,10 @@
 <br>
 
 - 비밀번호 등록하기  
-![image](https://user-images.githubusercontent.com/45448731/76137062-11db0900-607c-11ea-895f-6731286e769d.png)
-![image](https://user-images.githubusercontent.com/45448731/76137081-3fc04d80-607c-11ea-9e83-8625c66f02d8.png)
+![image](https://user-images.githubusercontent.com/45448731/76137062-11db0900-607c-11ea-895f-6731286e769d.png)  
+![image](https://user-images.githubusercontent.com/45448731/76137081-3fc04d80-607c-11ea-9e83-8625c66f02d8.png)  
+    -`등록`단계에서 비밀번호를 입력하면 
+<br>
+- 입력한 비밀번호 확인하기  
 ![image](https://user-images.githubusercontent.com/45448731/76137039-bb6dca80-607b-11ea-89c1-f4065723c220.png)
 
