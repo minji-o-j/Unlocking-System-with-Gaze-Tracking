@@ -94,7 +94,7 @@
 - 비밀번호 등록하기  
 ![image](https://user-images.githubusercontent.com/45448731/76137062-11db0900-607c-11ea-895f-6731286e769d.png)  
 ![image](https://user-images.githubusercontent.com/45448731/76137081-3fc04d80-607c-11ea-9e83-8625c66f02d8.png)  
-    -__비밀번호 등록하기__ 단계에서 비밀번호를 입력하면 *레몬이 노란색으로 표시된다.*
+    -`비밀번호 등록하기` 단계에서 비밀번호를 입력하면 **레몬이 노란색으로 표시된다.**
 <br>
 
 - 입력한 비밀번호 확인하기  
