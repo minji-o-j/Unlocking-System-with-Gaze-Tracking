@@ -95,8 +95,27 @@
 ![image](https://user-images.githubusercontent.com/45448731/76137062-11db0900-607c-11ea-895f-6731286e769d.png)  
 ![image](https://user-images.githubusercontent.com/45448731/76137081-3fc04d80-607c-11ea-9e83-8625c66f02d8.png)  
     -`비밀번호 등록하기` 단계에서 비밀번호를 입력하면 **레몬이 노란색으로 표시된다.**
+    - 비밀번호는 3자리에서 5자리까지 설정 가능하다.
+    - 비밀번호가 5자리 인 경우 5자리가 입력되면 자동으로 확인 창으로 넘어가며, 3 또는 4자리인 경우 _가운데 캐릭터를 일정 프레임동안 보면_ 다음 화면으로 넘어간다. 
 <br>
 
 - 입력한 비밀번호 확인하기  
 ![image](https://user-images.githubusercontent.com/45448731/76137039-bb6dca80-607b-11ea-89c1-f4065723c220.png)
+<br>
 
+#### 잠금 해제시
+- 캘리브레이션  
+![image](https://user-images.githubusercontent.com/45448731/76137035-aee97200-607b-11ea-9d4a-828f16d0a0b3.png)
+    - 왼쪽 위, 오른쪽 아래를 일정 프레임씩 보게 함으로써 화면을 보는 눈의 위치를 파악한다.
+<br>
+
+- 잠금 해제하기  
+![image](https://user-images.githubusercontent.com/45448731/76139691-0bf22180-6096-11ea-9357-38ced3db434d.png)  
+    - `잠금 해제하기` 단계에서는 _레몬의 색은 바뀌지 않는다._ 대신 비밀번호가 입력되었음을 확인할 수 있도록 자릿수가 체크된다.    
+
+  ![image](https://user-images.githubusercontent.com/45448731/76139692-0e547b80-6096-11ea-8fd6-889a8d89f7bf.png)
+<br>
+
+- 잠금 해제 실패시  
+![image](https://user-images.githubusercontent.com/45448731/76139694-10b6d580-6096-11ea-89d6-752da0c356fe.png)
+<br>
