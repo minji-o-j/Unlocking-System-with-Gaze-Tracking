@@ -2,6 +2,9 @@
 # 시선 추적을 이용한 잠금 해제 시스템
 
 ![image](https://img.shields.io/github/license/minji-o-j/Unlocking-System-with-Gaze-Tracking)
+![image](https://img.shields.io/badge/language-C%23-blue?style=plat&logo=Unity)
+<br>
+
 [요약](#요약)  
 [개발 기간](#개발-기간)  
 [개발자](#개발자)  
