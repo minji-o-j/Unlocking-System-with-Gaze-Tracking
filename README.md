@@ -27,8 +27,8 @@
 - 2019/08/19 ~ 2019/09/11
 ---
 ### 개발자
+- 김소현[sohyeon98720](https://github.com/sohyeon98720), 박현지, 이혜인[hyeinlee725](https://github.com/hyeinlee725), 정민지[minji-o-j](https://github.com/minji-o-j)
 
-- [김소현 (sohyeon98720)](https://github.com/sohyeon98720), 박현지, [이혜인(hyeinlee725)](https://github.com/hyeinlee725), [정민지(minji-o-j)](https://github.com/minji-o-j) 
 
 
 --- 
