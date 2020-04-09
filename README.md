@@ -43,8 +43,10 @@
 <br>
 
 #### -완성품
-![image](https://user-images.githubusercontent.com/45448731/75803296-92baac00-5dc1-11ea-95c0-182f2be12af5.png)
+<img src="https://user-images.githubusercontent.com/45448731/75803296-92baac00-5dc1-11ea-95c0-182f2be12af5.png" width="80%">     
+
 - 3D 프린팅을 이용하여 카메라 케이스를 제작하였다.
+
 ---
 
 ### 사용 프로그램
