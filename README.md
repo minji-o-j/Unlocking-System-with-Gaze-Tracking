@@ -27,8 +27,8 @@
 - 2019/08/19 ~ 2019/09/11
 ---
 ### 개발자
+- 김소현([sohyeon98720](https://github.com/sohyeon98720)), 박현지, 이혜인([hyeinlee725](https://github.com/hyeinlee725)), 정민지([minji-o-j](https://github.com/minji-o-j))
 
-- [김소현 (sohyeon98720)](https://github.com/sohyeon98720), 박현지, [이혜인(hyeinlee725)](https://github.com/hyeinlee725), [정민지(minji-o-j)](https://github.com/minji-o-j) 
 
 
 --- 
@@ -43,8 +43,10 @@
 <br>
 
 #### -완성품
-![image](https://user-images.githubusercontent.com/45448731/75803296-92baac00-5dc1-11ea-95c0-182f2be12af5.png)
+<img src="https://user-images.githubusercontent.com/45448731/75803296-92baac00-5dc1-11ea-95c0-182f2be12af5.png" width="80%">     
+
 - 3D 프린팅을 이용하여 카메라 케이스를 제작하였다.
+
 ---
 
 ### 사용 프로그램
@@ -82,7 +84,7 @@
 ---
 ### 결과
 
-- 동공이 잘 인식되지 않는 상황을 대비하여 몇 초 이후에 넘어가는 것이 아니라 __동공 프레임이 몇 개 들어왔는가__에 따라 다음 화면으로 자동으로 넘어가게끔 구현하였다.
+- 동공이 잘 인식되지 않는 상황을 대비하여 몇 초 이후에 넘어가는 것이 아니라 **동공 프레임이 몇 개 들어왔는가**에 따라 다음 화면으로 자동으로 넘어가게끔 구현하였다.
 <br>
 
 - 메인 화면  
