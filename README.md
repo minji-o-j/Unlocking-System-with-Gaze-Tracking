@@ -1,8 +1,10 @@
 # Unlocking System with Gaze Tracking
 # 시선 추적을 이용한 잠금 해제 시스템
-![image](https://img.shields.io/github/license/minji-o-j/Unlocking-System-with-Gaze-Tracking)
-![image](https://img.shields.io/badge/language-C%23-blue?style=plat&logo=Unity)
-![image](https://img.shields.io/badge/Latest%20Update-200308-9cf)  
+![image](https://img.shields.io/github/license/minji-o-j/Unlocking-System-with-Gaze-Tracking?style=flat-square)
+![image](https://img.shields.io/badge/language-C%23-blue?style=flat-square&logo=Unity)
+![image](https://img.shields.io/badge/Latest%20Update-200308-9cf?style=flat-square)
+![HitCount](http://hits.dwyl.com/minji-o-j/Advertisement-Analysis-Program.svg) 
+
 <br>
 
 [요약](#요약)  
